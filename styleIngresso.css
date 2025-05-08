@@ -1,0 +1,42 @@
+body{
+    background-color: blueviolet;
+    margin: 0 auto;
+
+}
+#menu {
+    background-color: black;
+    display: flex;
+    justify-content: end;
+    position: sticky;
+    margin-bottom: 100px;
+
+}
+input{
+    height: 20px;
+    margin-top: 30px ;
+    margin-right: 10px;
+    background-color: black;
+    color: blueviolet;
+}
+h4
+{
+    margin-top: 30px;
+    text-align: justify;
+    height: 10px;
+    background-color: black;
+    color: blueviolet;
+}
+table{
+    margin: 0 auto;
+    background-color: black;
+    color: blueviolet;
+    text-align: center;
+}
+button{
+    background-color: black;
+    color: blueviolet;
+    padding: 20px;
+    margin-left: 600px;
+    margin-top: 50px;
+
+}
