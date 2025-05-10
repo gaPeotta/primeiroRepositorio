@@ -7,9 +7,11 @@ table{
     color: blueviolet;
     text-align: center;
     margin-left: 24px;
+    margin-bottom: 5px;
 }
 img{
     width: 290px; height: 384px;
+    border-radius: 10px;
 }
 body{
     background-color: blueviolet;
@@ -44,3 +46,34 @@ h4
     color: black;
     height: 100px;
 }
+.imagem-hover {
+    transition: transform 0.6s ease, opacity 0.6s ease;
+}
+  
+.imagem-hover:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+footer{
+    position: absolute;
+    margin: 0 auto;
+    margin-left: 640px;
+}
+#recomendados{
+    background-color: black;
+    margin: 0 auto;
+    margin-left: 10px;
+    width: 1466px;
+    margin-left: 23px;
+    height: 435px;
+}
+#menuRecomendados{
+    background-color: black;
+    color: blueviolet;
+    height: 70px;
+    text-align: center;
+    width: 1466px;
+    margin-left: 23px;
+    align-items: center;
+}
+

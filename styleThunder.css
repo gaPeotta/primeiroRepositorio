@@ -44,3 +44,8 @@ button{
     margin-top: 50px;
 
 }
+footer{
+    position: absolute;
+    margin: 0 auto;
+    margin-left: 640px;
+}
